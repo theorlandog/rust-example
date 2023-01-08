@@ -5,16 +5,15 @@ Example repo created while learning the rust toolchain
 To initialize a project, we use cargo from the rust toolchain.
 
 ```
-$ cargo new rust-example
-    Created binary (application) `rust-example` package
+$ cargo new rust_example
+    Created binary (application) `rust_example` package
 $ tree .
 .
 ├── LICENSE
 ├── README.md
-└── rust-example
+└── rust_example
     ├── Cargo.toml
     └── src
         └── main.rs
-
 ```
 
